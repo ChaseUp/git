@@ -5,3 +5,4 @@ Git tracks changes.
 add a change.
 Creating a new branch is quick & simple.
 this is the last msg.
+this is dev and completed.
