@@ -10,3 +10,4 @@ this is dev and completed.
 dev changed from origin.
 dev changed 2 from origin.
 dev changed 2 from local.
+add a msg by GUI.
