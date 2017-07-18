@@ -1,15 +1,2 @@
 Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes.
-add a change.
-Creating a new branch is quick & simple.
-this is the last msg.
-fixed a bug buy issue101.
-this is dev and completed.
-dev changed from origin.
-dev changed 2 from origin.
-dev changed 2 from local.
-add a msg by GUI.
-ttttt from local.
-ttttt from origin.
+
