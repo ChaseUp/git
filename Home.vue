@@ -731,6 +731,7 @@
             }
             this.matchList = arr;
           }
+		  console.log('dev');
         },
       });
       common.buried();
