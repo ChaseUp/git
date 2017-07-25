@@ -21,7 +21,6 @@
         margin: 0 auto;
         border-radius: 50%;
         border: 6px solid rgba(255,255,255,.3);
-		display: block;
       }
     }
     .login {
